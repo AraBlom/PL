@@ -1,0 +1,127 @@
+||
+||
+||
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> ||
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/15 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:1 0/100
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/15 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> How many updates:> ||
+⍽:1 0/100
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/15 ]
+||
+
+||
+||
+|⍽:1 0/100|  [  T0   5/20 ]
+||
+⼐            [  T0  10/15 ]
+||
+
+||
+||
+⼐            [  T0   5/20 ]
+⍽:1 5/100
+⼐            [  T0  10/15 ]
+||
+
+||
+||
+⼐            [  T0   5/20 ]
+||
+|⍽:1 5/100|  [  T0  10/15 ]
+||
+
+||
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/15 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:1 0/5
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/15 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> How many updates:> ||
+⍽:1 0/5
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/15 ]
+||
+
+||
+||
+|⍽:1 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/15 ]
+||
+
+||
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/15 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> 

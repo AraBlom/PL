@@ -1,0 +1,114 @@
+||
+||
+||
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Out of 1-2 range
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Out of 1-2 range
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Please, input an integer
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Length:> Please, input an integer
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Out of 1-2 range
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Out of 1-2 range
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Please, input an integer
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Fill units:> Please, input an integer
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Type:> Please, input an integer
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Type:> Fill units:> Please, input an integer
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Type:> Fill units:> Package weight:> Please, input an integer
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:>

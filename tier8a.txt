@@ -1,0 +1,39 @@
+# make a bunch of type 2 stations
+4
+1
+2
+y
+2
+2
+5
+20
+y
+1
+1
+y
+2
+2
+10
+15
+y
+1
+1
+n
+
+
+# run a package through that should be pulled due to weight
+1
+1
+100
+3
+5
+
+# run a package through that should be pulled because it is full
+1
+1
+5
+3
+3
+
+
+0

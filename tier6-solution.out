@@ -1,0 +1,97 @@
+||
+||
+||
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Length:> Add another component (n to stop):> ||
+||
+||
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Add another component (n to stop):> ⼐            [  T0   0/1  ]
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Fill units:> Package weight:> Add another component (n to stop):> ⼐            [  T0 300/4  ]
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Type:> Fill units:> Package weight:> Add another component (n to stop):> ⼐            [ T10   3/400]
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> ||
+||
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Type:> Fill units:> Package weight:> Add another component (n to stop):> ⼐            [  T0   0/1  ]
+⼐            [  T0   1/2  ]
+⼐            [  T1   2/3  ]
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Type:> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> ||
+||
+⼐            [  T0   0/1  ]
+||
+||
+||
+⼐            [  T0   5/20 ]
+||
+||
+⼐            [  T4   3/9  ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> 

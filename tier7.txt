@@ -1,0 +1,53 @@
+# component choice errors
+4
+3
+
+4
+0
+
+4
+a
+
+# track choice errors
+4
+1
+a
+
+# station 2 choice errors
+4
+2
+0
+
+4
+2
+4
+
+4
+2
+a
+
+4
+2
+2
+a
+
+# station 3 choice errors
+4
+2
+3
+a
+
+4
+2
+3
+2
+a
+
+4
+2
+3
+2
+2
+a
+
+0

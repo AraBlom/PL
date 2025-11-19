@@ -1,0 +1,1191 @@
+||
+||
+||
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Type:> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Type:> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> Line (1) or Station (2):> Fill behavior: None (1), Fill (2), Type Fill (3):> Type:> Fill units:> Package weight:> Add another component (n to stop):> Line (1) or Station (2):> Length:> Add another component (n to stop):> ||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:0 0/5
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:0 0/5
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:0 0/5
+⍽:0 0/5
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:0 0/5
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   0/1  ]
+⍽:0 0/5
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:0 0/5
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   0/1  ]
+⍽:0 0/5
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   0/1  ]
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:0 0/5
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   0/1  ]
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   0/1  ]
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:0 0/5
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   0/1  ]
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   0/1  ]
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> How many updates:> ||
+||
+|⍽:0 0/5|    [  T0   0/1  ]
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+⍽:0 0/5
+|⍽:0 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+|⍽:0 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:0 0/15
+||
+⼐            [  T0   0/1  ]
+||
+|⍽:0 0/5|    [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:0 0/15
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:0 0/15
+⍽:0 0/15
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:0 0/15
+|⍽:0 0/15|   [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:0 0/15
+⍽:0 0/15
+|⍽:0 0/15|   [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> How many updates:> ||
+⍽:0 0/15
+|⍽:0 0/15|   [  T0   0/1  ]
+⍽:0 0/15
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+|⍽:0 0/15|   [  T0   0/1  ]
+⍽:0 0/15
+|⍽:0 0/15|   [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+⍽:0 0/15
+|⍽:0 0/15|   [  T0   5/20 ]
+⍽:0 5/15
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+|⍽:0 0/15|   [  T0   5/20 ]
+⍽:0 5/15
+|⍽:0 5/15|   [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+⍽:0 5/15
+|⍽:0 5/15|   [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+|⍽:0 5/15|   [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:1 0/100
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+|⍽:0 5/15|   [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:1 0/100
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:1 0/100
+⍽:1 0/100
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:1 0/100
+|⍽:1 0/100|  [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:1 0/100
+⍽:1 0/100
+|⍽:1 0/100|  [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:1 0/100
+|⍽:1 0/100|  [  T0   0/1  ]
+⍽:1 0/100
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:2 0/22
+⍽:1 0/100
+|⍽:1 0/100|  [  T0   0/1  ]
+⍽:1 0/100
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:2 0/22
+|⍽:1 0/100|  [  T0   0/1  ]
+⍽:1 0/100
+|⍽:1 0/100|  [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:2 0/22
+⍽:2 0/22
+|⍽:1 0/100|  [  T0   0/1  ]
+⍽:1 0/100
+|⍽:1 0/100|  [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:2 0/22
+|⍽:2 0/22|   [  T0   0/1  ]
+⍽:1 0/100
+|⍽:1 0/100|  [  T0   5/20 ]
+⍽:1 5/100
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> How many updates:> ||
+||
+|⍽:2 0/22|   [  T0   0/1  ]
+⍽:2 0/22
+|⍽:1 0/100|  [  T0   5/20 ]
+⍽:1 5/100
+|⍽:1 5/100|  [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+⍽:2 0/22
+|⍽:2 0/22|   [  T0   5/20 ]
+⍽:1 5/100
+|⍽:1 5/100|  [  T0  10/20 ]
+⍽:1 15/100
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+|⍽:2 0/22|   [  T0   5/20 ]
+⍽:2 5/22
+|⍽:1 5/100|  [  T0  10/20 ]
+⍽:1 15/100
+|⍽:1 15/100| [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+⍽:2 5/22
+|⍽:2 5/22|   [  T0  10/20 ]
+⍽:1 15/100
+|⍽:1 15/100| [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+|⍽:2 5/22|   [  T0  10/20 ]
+⍽:2 15/22
+|⍽:1 15/100| [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+⍽:2 15/22
+|⍽:2 15/22|  [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+|⍽:2 15/22|  [  T1   5/20 ]
+⍽:2 15/22
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+⍽:2 15/22
+|⍽:2 15/22|  [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+|⍽:2 15/22|  [  T2   5/25 ]
+⍽:2 20/22
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+⍽:2 20/22
+|⍽:2 20/22|  [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+|⍽:2 20/22|  [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:5 0/100
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+|⍽:2 20/22|  [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> How many updates:> ||
+⍽:5 0/100
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+|⍽:5 0/100|  [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+⍽:5 0/100
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+|⍽:5 0/100|  [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+⍽:5 5/100
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+|⍽:5 5/100|  [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+⍽:5 15/100
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+|⍽:5 15/100| [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+⍽:5 15/100
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+|⍽:5 15/100| [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+⍽:5 15/100
+⼐            [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+|⍽:5 15/100| [  T2   5/20 ]
+||
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+⍽:5 15/100
+
+||
+||
+⼐            [  T0   0/1  ]
+||
+⼐            [  T0   5/20 ]
+||
+⼐            [  T0  10/20 ]
+||
+⼐            [  T1   5/20 ]
+||
+⼐            [  T2   5/25 ]
+||
+⼐            [  T2   5/20 ]
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> 

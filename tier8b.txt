@@ -1,0 +1,62 @@
+# make a bunch of type 3 stations
+4
+1
+2
+y
+2
+3
+1
+5
+20
+y
+1
+1
+y
+2
+3
+2
+5
+10
+y
+1
+1
+y
+2
+3
+2
+5
+10
+y
+1
+1
+n
+
+# run a package through that has no filling due to mismatched type
+1
+0
+100
+3
+8
+
+# run a package through that should be fill, but not pulled
+1
+1
+100
+3
+8
+
+# run a package through that should be fill, because it is full
+1
+1
+5
+3
+3
+
+# run a package through that should be fill, because of weight
+1
+2
+10
+3
+7
+
+0

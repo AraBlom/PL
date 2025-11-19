@@ -1,0 +1,218 @@
+||
+||
+||
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:1 0/2
+||
+||
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:1 0/2
+||
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:2 0/100
+⍽:1 0/2
+||
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:2 0/100
+⍽:1 0/2
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:6 0/5
+⍽:2 0/100
+⍽:1 0/2
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:6 0/5
+⍽:2 0/100
+|⍽:1 0/2|    [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:4 0/17
+⍽:6 0/5
+⍽:2 0/100
+|⍽:1 0/2|    [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:4 0/17
+⍽:6 0/5
+|⍽:2 0/100|  [  T0   0/1  ]
+⍽:1 0/2
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:5 0/5
+⍽:4 0/17
+⍽:6 0/5
+|⍽:2 0/100|  [  T0   0/1  ]
+⍽:1 0/2
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> ||
+⍽:5 0/5
+⍽:4 0/17
+|⍽:6 0/5|    [  T0   0/1  ]
+⍽:2 0/100
+⍽:1 0/2
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> Type:> Max Units:> ⍽:100 0/5
+⍽:5 0/5
+⍽:4 0/17
+|⍽:6 0/5|    [  T0   0/1  ]
+⍽:2 0/100
+⍽:1 0/2
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> How many updates:> ||
+⍽:100 0/5
+⍽:5 0/5
+|⍽:4 0/17|   [  T0   0/1  ]
+⍽:6 0/5
+⍽:2 0/100
+
+||
+||
+⍽:100 0/5
+|⍽:5 0/5|    [  T0   0/1  ]
+⍽:4 0/17
+⍽:6 0/5
+
+||
+||
+||
+|⍽:100 0/5|  [  T0   0/1  ]
+⍽:5 0/5
+⍽:4 0/17
+
+||
+||
+||
+⼐            [  T0   0/1  ]
+⍽:100 0/5
+⍽:5 0/5
+
+||
+||
+||
+⼐            [  T0   0/1  ]
+||
+⍽:100 0/5
+
+||
+||
+||
+⼐            [  T0   0/1  ]
+||
+||
+
+1) Add Package
+2) Update One Tick
+3) Update X Ticks
+4) Make New Simulator
+5) Set Appearance
+0) Quit
+
+Choice:> 
