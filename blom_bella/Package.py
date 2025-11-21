@@ -1,18 +1,18 @@
 class Package:
-    def __init__(self, type, capacity):
-        self.__id = type
-        self.__capacity = capacity
-        self.__holding = 0
+    def __init__(self, p_type, capacity):
+        self._id = p_type
+        self._capacity = capacity
+        self._holding = 0
 
     def fill(self, units):
-        if self.__holding + units > self.__capacity:
-            self.__holding = self.__capacity
+        if self._holding + units > self._capacity:
+            self._holding = self._capacity
         else:
-            self.__holding += units
+            self._holding += units
 
     def isFull(self):
-        return self.__holding == self.__capacity
+        return self._holding == self._capacity
 
     def toString(self):
-        cap = str(self.__id) + ' ' + str(self.__holding) +'/' +str(self.__capacity)
+        cap = str(self._id) + ' ' + str(self._holding) +'/' +str(self._capacity)
         return("⍽:" + cap)

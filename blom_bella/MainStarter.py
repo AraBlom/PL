@@ -80,6 +80,8 @@ def main( ):
                             s_type = float(cleanInput("Type:> "))
                             if s_type != int(s_type):
                                 raise ValueError
+                        else:
+                            s_type = 0
                         if s_fill_type != 1:
                             s_fill_units = float( cleanInput("Fill units:> "))
                             if int(s_fill_units) != s_fill_units:
@@ -88,10 +90,9 @@ def main( ):
                             if int(s_pkg_w) != s_pkg_w:
                                 raise ValueError
                         else:
-                            s_type = 0
                             s_fill_units = 0
                             s_pkg_w = 1
-                        line.add_station(int(s_type), int(s_fill_units),int( s_pkg_w))
+                        line.add_station(int(s_type), int(s_fill_units),int( s_pkg_w), s_fill_type)
                     exit = str (cleanInput("Add another component (n to stop):> "))
 
 

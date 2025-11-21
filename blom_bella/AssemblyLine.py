@@ -3,6 +3,7 @@ from Package import Package
 from Track import Track
 from Station import Station
 from Package import Package
+from FillStrategy import fill, type_fill
 class AssemblyLine:
     def __init__(self):
         self.line= [Track(), Track(), Track(), Station(), Track(), Track()]
@@ -37,6 +38,11 @@ class AssemblyLine:
         for i in range(units):
             self.line.append(Track())
 
-    def add_station(self, s_type=0, fill_units= 0, pkg_weight =1):
-        sat = Station(fill_units, pkg_weight, s_type)
+    def add_station(self, s_type=0, fill_units= 0, pkg_weight =1, fill_type = 1):
+        if fill_type == 1:
+            sat = Station(fill_units, pkg_weight, s_type)
+        elif fill_type == 2:
+            sat = Station(fill_units, pkg_weight, s_type,fill )
+        else: # fill_type == 3:
+            sat = Station(fill_units, pkg_weight, s_type, type_fill)
         self.line.append(sat)
