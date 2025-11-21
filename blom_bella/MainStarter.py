@@ -36,18 +36,64 @@ def main( ):
                 pkg_type = float (cleanInput("Type:> "))
                 capacity = float(cleanInput("Max Units:> "))
                 if int(pkg_type) == pkg_type and int(capacity) == capacity:
-                    line.addPackage(int(pkg_type), int(capacity))
+                    line.add_package(int(pkg_type), int(capacity))
                 else:
                     raise ValueError
 
             elif choice == 2:
-                print( "TODO" )
+                line.tick()
 
             elif choice == 3:
-                print( "TODO" )
+                ticks = float (cleanInput("How many updates:> "))
+                if int(ticks) == ticks:
+                    line.tick_x(int(ticks))
+                else:
+                    raise ValueError
+
 
             elif choice == 4:
-                print( "TODO" )
+                line.clear_track()
+                exit = 0
+                while (exit != "n"):
+                    c_type = float(cleanInput("Line (1) or Station (2):> "))
+                    if c_type != int(c_type):
+                        raise ValueError
+                    if c_type <1 or c_type > 2:
+                        e = IndexError()
+                        e.add_note("1-2")
+                        raise e
+                    if c_type == 1:
+                        num = float (cleanInput("Length:> "))
+                        if int(num) != num:
+                            raise ValueError
+                        line.add_track(int(num))
+                    elif c_type == 2:
+                        s_fill_type = float( cleanInput("Fill behavior: None (1), Fill (2), Type Fill (3):> "))
+                        if int(s_fill_type) != s_fill_type:
+                            raise ValueError
+                        s_fill_type = int(s_fill_type)
+                        if s_fill_type > 3 or s_fill_type < 1:
+                            e = IndexError()
+                            e.add_note("1-2")
+                            raise e
+                        if s_fill_type == 3:
+                            s_type = float(cleanInput("Type:> "))
+                            if s_type != int(s_type):
+                                raise ValueError
+                        if s_fill_type != 1:
+                            s_fill_units = float( cleanInput("Fill units:> "))
+                            if int(s_fill_units) != s_fill_units:
+                                raise ValueError
+                            s_pkg_w = float(cleanInput("Package weight:> "))
+                            if int(s_pkg_w) != s_pkg_w:
+                                raise ValueError
+                        else:
+                            s_type = 0
+                            s_fill_units = 0
+                            s_pkg_w = 1
+                        line.add_station(int(s_type), int(s_fill_units),int( s_pkg_w))
+                    exit = str (cleanInput("Add another component (n to stop):> "))
+
 
             elif choice == 5:
                 print( "TODO" )
@@ -61,7 +107,7 @@ def main( ):
             else:
                 e = IndexError()
                 e.add_note("0-5")
-                raise e
+                raise e #GRADING: RAISE
         except ValueError: #GRADING: CATCH
             print("Please, input an integer")
         except IndexError as ie:
