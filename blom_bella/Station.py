@@ -6,15 +6,14 @@ class Station(Component):
         self._id = st_type
         self._weight = max_weight
         self.__fill_f = fill_f
+        self._dropped = 0
+        self.__display = None
+
+    def set_display (self, display):
+        self.__display = display(self._fill, self._weight, self._id)
 
     def print(self):
-        img = "⼐"
-        if self._package:
-            img = "|"+self._package.toString() +"|"
-        T = "T" + str(self._id)
-        w = str(self._fill).rjust(3) + "/" + str(self._weight).ljust(3)
-        det = " [" + T.center(5) + w.center(3) + "]"
-        print(img.ljust(12) + det)
+       print (self.__display.display(self._package, self._dropped))
 
     def update(self, package =None):
         if not self._package:

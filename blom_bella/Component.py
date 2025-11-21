@@ -17,3 +17,6 @@ class Component(ABC):
             return False
         return True
 
+    def set_display(self, display):
+        pass
+

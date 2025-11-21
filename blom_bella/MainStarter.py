@@ -97,10 +97,15 @@ def main( ):
 
 
             elif choice == 5:
-                print( "TODO" )
+                app = float (cleanInput("Appearance: Default (1), Color (2), Compacted (3):> "))
+                if int(app) != app:
+                    raise ValueError
+                if app >3 or app <1 :
+                    e = IndexError()
+                    e.add_note("1-3")
+                    raise e
+                line.set_display(int(app))
 
-            elif choice == 6:
-                print( "TODO" )
 
 
             elif choice == 0 or choice == '0':

@@ -4,11 +4,32 @@ from Track import Track
 from Station import Station
 from Package import Package
 from FillStrategy import fill, type_fill
+from Display import Display
+from CompactedDisplay import CompactedDisplay
+from ColorDisplay import ColorDisplay
+
+
 class AssemblyLine:
     def __init__(self):
         self.line= [Track(), Track(), Track(), Station(), Track(), Track()]
+        self.__display = 1
+
+    def __get_display (self):
+        if self.__display == 1:
+            return Display
+        elif self.__display == 2:
+            return ColorDisplay
+        else:
+            return CompactedDisplay
+
+    def set_display(self, display):
+        self.__display = display
 
     def print_line(self):
+        display = self.__get_display()
+        for component in self.line:
+            if component.set_display:
+                component.set_display(display)
         for component in self.line:
             component.print()
 
