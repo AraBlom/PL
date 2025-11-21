@@ -19,7 +19,7 @@ FUDGE_LEFT_SPACE = True
 DEFAULT_COLOR = ColorText.fg.black
 PASSED_COLOR = ColorText.fg.green
 CLEAN_UP = True
-SHOW_REDIRECTED_INPUT_COMMENTS = True
+SHOW_REDIRECTED_INPUT_COMMENTS = False
 LINE_MARKER = " ##############################################################"
 
 def printError(resultLine, ansLine):

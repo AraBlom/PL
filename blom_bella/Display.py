@@ -1,21 +1,26 @@
 class Display:
-    def __init__(self, fill, weight, id):
-        self._fill = fill
-        self._weight = weight
-        self._id = id
+    """
+    Initialize method with station details
+    :param station: station
+    """
+    def __init__(self, station):
+        self._fill = station.get_fill()
+        self._weight = station.get_weight()
+        self._id = station.get_id()
 
-    def display(self, pkg, dropped = 0):
+    """
+    Display method basic
+    :param pkg: station package
+    :type pkg: Package
+    :param dropped: not used
+    :return string, the string to display
+    """
+    def display(self, pkg, dropped = 0): #GRADING: NOT_NULL
         img = "⼐"
         if pkg:
-            img = "|"+  self._getPkgStr(pkg) + "|"
-        T = self._getT()
+            img = "|" + pkg.toString() + "|"
+        T = "T" + str(self._id)
         w = str(self._fill).rjust(3) + "/" + str(self._weight).ljust(3)
         det = " [" + T.center(5) + w.center(3) + "]"
         return img.ljust(12) + det
 
-    def _getT(self):
-        return "T" + str(self._id)
-
-    def _getPkgStr(self, pkg):
-        img = pkg.toString()
-        return img

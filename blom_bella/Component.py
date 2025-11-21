@@ -1,4 +1,7 @@
 from abc import ABC, abstractmethod, abstractproperty
+"""
+Abstract class used by Track and Station
+"""
 class Component(ABC):
     @abstractmethod
     def __init__(self):

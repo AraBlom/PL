@@ -1,10 +1,44 @@
+"""
+:author: Bella Blom
+Class: PL Fall 2025
+Description:
+Station mangement program. Simulates an assembly line
+with a user menu to add custom behavior.
+Last tier passes: all tiers passes
+Checklist:
+Grading tags in for all lines marked with * (x8)		__x
+
+1. Initial Show system Got it compiling
+
+2. Handle bad input*
+
+3. Add Package with error handling*				___x
+
+4. Update (one item)						___	x
+
+5. Update (multiple items)					___x
+
+6. Custom System, no packages 					___x
+
+7. Custom System, error handling				___x
+
+8. Fill Behavior (type 2 and 3)*				___x
+
+9. Custom System-Stress Test					___	x
+
+10. Color Behavior (color and compacted)*			___	x
+
+11. Swapping string and error testing 				___x
+"""
 from ColorText import ColorText
 from AssemblyLine import AssemblyLine
 
 SHOW_REDIRECTED_INPUT_COMMENTS = False
 LINE_MARKER = " ##############################################################"
 
-
+"""
+Given input function
+"""
 def cleanInput( prompt ):
   result = input( prompt )
   # strips out blank lines in input
@@ -14,7 +48,9 @@ def cleanInput( prompt ):
     result = input()
   
   return result
-
+"""
+Main run of program, prints menu and handles IO
+"""
 def main( ):
     menu = "\n" \
            "1) Add Package\n"\
